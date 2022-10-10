@@ -1,0 +1,127 @@
+*, *!before, *,!after{
+    
+    margin: 0;
+    padding: 0;
+    outline: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+    border: none;
+}
+body{
+    font-family: sans-serif;
+    color: blueviolet;
+    background:;
+    overflow-x: hidden;
+    
+        
+}
+.container{
+    width: 80px;
+    margin: 0 auto;
+}
+.profilepicture{
+    width: 2.2rem;
+    border-radius: 50px;
+    overflow: hidden;
+}
+
+.img{
+    display: block;
+    width: 100%;
+}
+.btn{
+    display: inline-block;
+    font-weight: 500px;
+    cursor: pointer;
+    transition: all 100ms ease;
+    border-radius: ;
+    font-size: 0.9rem;
+    
+}
+
+.btn:hover[
+
+opaciy:0.8;
+]
+.btn-primary{
+    background-color: bisque;
+    color: white;
+}
+.text-bold{
+    font-weight: 500px;
+    
+}
+nav{
+    width: 100%;
+    background-color: aqua;
+    padding: 0.9rem 0;
+    position: fixed;
+    top: 0;
+    z-index: 10;
+}
+nav.container{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+nav.search-bar{
+    background-color: cadetblue;
+    border-radius: ;
+    
+}
+nav.search-bar input[type="search"]{
+    background: transparent;
+    width: 30px;
+    margin-left: 1rem;
+    font-size: 0.9rem;
+    color: chartreuse;
+}
+nav.create{
+    align-items: center;
+    display: flex;
+    column-gap: 2rem;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
